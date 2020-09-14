@@ -1,0 +1,26 @@
+{
+   "events":[
+      {
+         "encompassId":"45dbb168-c05c-472d-b0fe-6befaac7af10",
+         "dateTime":"2019-09-09T23:34:34.332Z",
+         "eventType":"blah",
+         "data":{
+            "userId":"123",
+            "resourceId":"45dbb168-c05c-472d-b0fe-6befaac7af10",
+            "resourceType":"Encompass",
+            "resourceRef":""
+         }
+      },
+      {
+         "encompassId":"45dgy168-c05c-475t-b0fe-6befaac7af45",
+         "dateTime":"2019-09-010T09:34:34.332Z",
+         "eventType":"blah blah blah once again",
+         "data":{
+            "userId":"456",
+            "resourceId":"45dgy168-c05c-475t-b0fe-6befaac7af45",
+            "resourceType":"Encompass",
+            "resourceRef":""
+         }
+      }
+   ]
+}
